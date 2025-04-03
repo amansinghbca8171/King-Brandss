@@ -7,7 +7,7 @@ export default defineConfig({
   server:{port: 5173},
   build: {
     rollupOptions: {
-      external: ['mongoose']
+      external: ['mongoose', 'react-router-dom']
     }
   }
 })
