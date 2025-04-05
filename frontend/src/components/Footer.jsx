@@ -9,7 +9,7 @@ const Footer = () => {
             <div>
                 <img src={assets.logo} className='mb-5 w-32' alt="" />
                 <p className='w-full md:w-2/3 text-gray-600'>
-                 King Brandss is a trendy clothing shopping website that offers a stylish and diverse collection of fashion for men and women. From casual wear to premium outfits, King Brandss focuses on high-quality fabrics, modern designs, and affordable prices. 
+                King Brandss is a trendy clothing shopping website that offers a stylish and diverse collection of fashion for men and women. From casual wear to premium outfits, King Brandss focuses on high-quality fabrics, modern designs, and affordable prices. 
                 </p>
             </div>
             <div>
